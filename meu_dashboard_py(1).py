@@ -250,7 +250,7 @@ st.pyplot(fig4)
 **A Influência dos Jogos Eletrônicos no Desempenho Acadêmico dos jovens**
 """
 
-!pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
